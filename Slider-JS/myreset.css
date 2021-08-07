@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100&family=Open+Sans+Condensed:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+body {
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color: rgb(28, 28, 39);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 5px;
+}
