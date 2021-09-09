@@ -1,5 +1,7 @@
-# Slider-Javascript-Vanilla
- Slider of images and pictures with JavaScript Vanilla
+# Slider Javascript Vanilla
+ Basic slider of texts and pictures with JavaScript Vanilla.
 <div>
- <img align="center" src="https://github.com/Lu-Clemente/Slider-Javascript-Vanilla/blob/main/Preview/n1.png" alt="First slider image">
+ <br>
+ <img width="400px" src="https://github.com/Lu-Clemente/Slider-Javascript-Vanilla/blob/main/Preview/n1.png" alt="First slider image">
+ <img width="410px" src="https://github.com/Lu-Clemente/Slider-Javascript-Vanilla/blob/main/Preview/n2.png" alt="Third slider image">
 </div>
